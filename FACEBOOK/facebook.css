@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+}
+.header{
+    background-color: #1877F2;
+    width: 100%;
+    height: 113px;
+}
+.logo{
+    padding-top: 15px;
+    float: left;
+}
+.logo_txt{
+    font-size: 61px;
+    color: white;
+    text-decoration: none;
+    margin-left: 84px;
+    font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+    
+}
+.login{
+    margin-top: 26px;
+    float: left;
+    margin-left: 1000px;
+    color: white;
+}
+.submit_button{
+    background-color: rgb(93, 93, 184);
+    border: 2px cornsilk solid;
+    border-radius: 3px;
+}
+.submit_button:hover{
+    background: red;
+}
+.left{
+    width: 46%;
+    height: 800px;
+    padding-left: 50px;
+    padding-top: 96px;
+    float: left;
+}
+.right{
+    width: 50%;
+    height: 800px;
+    margin-top: 150px;
+    float: left;
+
+}
+.mobile{
+    width:337px
+}
+.day{
+    float: left;
+}
+.month{
+    float: left;
+}
